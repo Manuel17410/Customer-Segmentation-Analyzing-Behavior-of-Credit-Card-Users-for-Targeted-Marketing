@@ -32,8 +32,23 @@ The data was scaled, and for some models also PCA was used. The data was not spl
 - K- Means (with scaled dataset, eliminating first variables that are highly correlated)
 - K- Means (with scaled dataset and PCA)
 - K- Means (Only with the top 2 PCA)
+- 
+![Example Image](images/PCA.png)
 
 In these four previous models, to determine the right number of clusters, the elbow method was used.
 
+![Example Image](images/elbowmethod.png)
 
 - Agglomerative Clustering (2 PCA)
+
+For this last model, the dendogram was used.
+
+![Example Image](images/Dendogram.png)
+
+## Model Performance
+
+The K-Means (Only with the top 2PCA) outperformed the other ones.
+
+![Example Image](images/BestModel.png)
+
+
