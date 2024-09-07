@@ -8,4 +8,12 @@
 
 ## Resources Used
 
+**Python Version**: 3.12.1
+**Packages**: pandas,numpy,sklearn,matplotlib,seaborn,scipy,plotly,IPython.display
+
+## Data Cleaning
+
+- The Dataset was pretty clean it was only necessary to dropped 313 rows that had null values. (3,5% of the total rows)
+
+## EDA
 
