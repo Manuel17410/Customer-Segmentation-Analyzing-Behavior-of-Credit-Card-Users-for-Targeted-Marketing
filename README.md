@@ -22,3 +22,18 @@ Many different graphs were made to understand the dataset better. Below some of 
 
 ![Example Image](images/Distribution_of_balanced_amounts.png)
 ![Example Image](images/Correlation.png)
+
+## Model Building
+
+The data was scaled, and for some models also PCA was used. The data was not split into test and train because the models are unsupervised.
+5 diferent models were conducted and evaluated using the Silhouette Score.
+
+- K- Means (with scaled dataset, using all the variables)
+- K- Means (with scaled dataset, eliminating first variables that are highly correlated)
+- K- Means (with scaled dataset and PCA)
+- K- Means (Only with the top 2 PCA)
+
+In these four previous models, to determine the right number of clusters, the elbow method was used.
+
+
+- Agglomerative Clustering (2 PCA)
