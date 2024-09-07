@@ -17,3 +17,6 @@
 
 ## EDA
 
+Many different graphs were made to understand the dataset better. Below some of them. 
+
+![Example Image](images/Distribution_of_balanced_amounts.png)
