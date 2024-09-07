@@ -12,6 +12,8 @@
 
 **Packages**: pandas,numpy,sklearn,matplotlib,seaborn,scipy,plotly,IPython.display
 
+**Dataset**: https://www.kaggle.com/datasets/arjunbhasin2013/ccdata
+
 ## Data Cleaning
 
 - The Dataset was pretty clean it was only necessary to dropped 313 rows that had null values. (3,5% of the total rows)
