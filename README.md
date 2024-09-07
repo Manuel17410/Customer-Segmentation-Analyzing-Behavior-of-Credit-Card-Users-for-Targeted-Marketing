@@ -9,6 +9,7 @@
 ## Resources Used
 
 **Python Version**: 3.12.1
+
 **Packages**: pandas,numpy,sklearn,matplotlib,seaborn,scipy,plotly,IPython.display
 
 ## Data Cleaning
@@ -20,3 +21,4 @@
 Many different graphs were made to understand the dataset better. Below some of them. 
 
 ![Example Image](images/Distribution_of_balanced_amounts.png)
+![Example Image](images/Correlation.png)
